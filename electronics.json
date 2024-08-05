@@ -1,46 +1,37 @@
 [
+   
     {
-        "id":"19",
-        "p_name": "Laptop",
-        "price": 29999.00
-    },
-    {
-       "id":"20",
-        "p_name": "Phone",
-        "price": 34699.00 
-    },
-    {
-        "id":"21",
+        "id":"16",
         "p_name": "Camera",
         "price": 17999.00 
     },
     {
-        "id":"22",
+        "id":"17",
         "p_name": "Watch",
         "price": 4799.00 
     },
     {
-        "id":"23",
+        "id":"18",
         "p_name": "Ipad",
         "price": 45799.00 
     },
     {
-        "id":"24",
+        "id":"19",
         "p_name": "Printer",
         "price": 18999.00 
     },
     {
-        "id":"25",
+        "id":"20",
         "p_name": "Iron",
         "price": 3499.00 
     },
     {
-        "id":"26",
+        "id":"21",
         "p_name": "Vacuum",
         "price": 5799.00 
     },
     {
-        "id":"27",
+        "id":"22",
         "p_name": "Juicer",
         "price": 2999.00 
     }
